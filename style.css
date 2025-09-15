@@ -1,8 +1,22 @@
 img {
-    width : 500px
+    width : 500px;
+    border-style: inset;
+    border-color:chartreuse;
+    border-width: 10px;
 }
 
 body {
     font-size: 200%;
     font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+li {
+    border-style: outset;
+    border-color:blue;
+    border-width: 10px;
+    color:mediumseagreen
+}
+
+h1 {
+    color:crimson;
 }
